@@ -5,7 +5,8 @@ author: showang <showang730@gmail.com>
 homepage: https://github.com/showang/flutter_google_cast_button
 
 environment:
-  sdk: ">=2.0.0 <3.0.0"
+#  sdk: ">=2.0.0 <3.0.0"
+  sdk: ">=2.11.0 <3.0.0"
 
 dependencies:
   flutter:
