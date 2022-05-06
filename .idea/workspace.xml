@@ -7,7 +7,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0955bbd5-ee8f-4b0c-840c-e9b24a719d03" name="Default Changelist" comment="update equatable" />
+    <list default="true" id="0955bbd5-ee8f-4b0c-840c-e9b24a719d03" name="Default Changelist" comment="update sdk version">
+      <change beforePath="$PROJECT_DIR$/example/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/example/.flutter-plugins-dependencies" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="9b5e11d0-5440-4aef-ae00-c2d17494a1cd" />
   </component>
   <component name="ProjectId" id="1V5iyKEIr5dA6rdP9uM5hJlKz1z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -63,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651820044015</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update sdk version">
+      <created>1651820348053</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651820348053</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update equatable" />
-    <option name="LAST_COMMIT_MESSAGE" value="update equatable" />
+    <MESSAGE value="update sdk version" />
+    <option name="LAST_COMMIT_MESSAGE" value="update sdk version" />
   </component>
 </project>
